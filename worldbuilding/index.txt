@@ -1,0 +1,6 @@
+This is the main worldbuilding directory.
+
+Subdirectories:
+magic
+maps
+lifestyle

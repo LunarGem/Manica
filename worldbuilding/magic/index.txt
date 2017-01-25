@@ -1,0 +1,5 @@
+Main magical powers directory.
+
+Subdirectories:
+seidr
+psych
